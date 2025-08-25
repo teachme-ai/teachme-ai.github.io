@@ -23,7 +23,8 @@ Setting up on a Mac is smooth with the help of **Homebrew**, a package manager f
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 
-**Install Ruby:**
+
+### Install Ruby
 
 brew install ruby
 
