@@ -1,3 +1,15 @@
+---
+layout: post
+title: "Key Industry Reports and Takeaways - 2025"
+date: 2025-08-24 14:00:00 +1234
+categories:
+  - Blogging
+  - Tutorial
+tags:
+  - jekyll
+  - github
+  - guide
+---
 ## Key Industry Reports & Their Takeaways
 
 ### 1. Stanford HAI AI Index Report 2025
