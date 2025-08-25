@@ -23,27 +23,27 @@ Setting up on a Mac is smooth with the help of **Homebrew**, a package manager f
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 
-Install Ruby:
+**Install Ruby:**
 
 brew install ruby
 
 
-Configure Your Terminal's PATH:
+**Configure Your Terminal's PATH:**
 
 echo 'export PATH="$(brew --prefix ruby)/bin:$PATH"' >> ~/.zshrc
 echo 'export PATH="/usr/local/lib/ruby/gems/3.4.0/bin:$PATH"' | sudo tee -a ~/.zshrc
 
 
-Reload Your Terminal:
+**Reload Your Terminal:**
 
 source ~/.zshrc
 
 
-Install Jekyll and Bundler:
+**Install Jekyll and Bundler:**
 
 gem install bundler jekyll
 
-For Windows Users
+**For Windows Users**
 
 The easiest way to get started on Windows is with the RubyInstaller.
 
