@@ -8,7 +8,7 @@ Have you ever wanted to start your own blog without the cost and complexity of t
 
 This post will cover everything from initial setup on macOS, Windows, and Linux to deploying your site and troubleshooting common issues.
 
-Step 1: Getting Your System Ready
+### Step 1: Getting Your System Ready
 Before we can start building, we need to install a few essential tools. Jekyll is built with a programming language called Ruby, so the first step is to get a modern version of Ruby running on your computer.
 
 For macOS Users
@@ -57,7 +57,8 @@ Install Jekyll and Bundler:
 gem install jekyll bundler
 {% endhighlight %}
 
-Step 2: Creating Your First Jekyll Blog
+### Step 2: Creating Your First Jekyll Blog
+
 With the tools installed, it's time for the fun part.
 
 Create a New Site:
@@ -75,7 +76,7 @@ bundle exec jekyll serve
 
 Now, open a web browser and go to http://localhost:4000.
 
-Step 3: Pushing Your Blog to GitHub
+### Step 3: Pushing Your Blog to GitHub
 Let's connect your local blog to your new GitHub repository.
 
 Initialize Git:
@@ -93,9 +94,9 @@ git commit -m "Initial commit"
 git push -u origin main
 {% endhighlight %}
 
-After a few minutes, your blog will be live at https://your-username.github.io!
+## After a few minutes, your blog will be live at https://your-username.github.io!
 
-GitHub Push Troubleshooting
+### GitHub Push Troubleshooting
 Even with the correct setup, you may face some issues while pushing code to GitHub. Here are common errors and fixes.
 
 Error: src refspec main does not match any
