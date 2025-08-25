@@ -1,3 +1,11 @@
+---
+layout: post
+title: "My Guide to Jekyll and GitHub Pages"
+date: 2025-08-25 15:30:00 +0530
+# Add categories and tags like this:
+categories: [Blogging, Tutorial]
+tags: [jekyll, github, web-development, guide]
+---
 
 ## Key Industry Reports & Their Takeaways
 
